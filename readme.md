@@ -24,7 +24,7 @@ npm install zoho-turnstile
 ## Documentation
 
 Full setup guide, options reference, Worker deployment and troubleshooting:  
-👉 [dev.to/miaie/zoho-turnstile](https://dev.to/miaie/zoho-turnstile)
+👉 [dev.to/sillycoder/adding-cloudflare-turnstile-to-zoho-form-html-exports-2129](https://dev.to/sillycoder/adding-cloudflare-turnstile-to-zoho-form-html-exports-2129)
 
 ## Quick start
 
@@ -90,7 +90,7 @@ ZohoTurnstile.init({
 });
 ```
 
-See the [full documentation](https://dev.to/miaie/zoho-turnstile) for Worker setup instructions.
+See the [full documentation](https://dev.to/sillycoder/adding-cloudflare-turnstile-to-zoho-form-html-exports-2129) for Worker setup instructions.
 
 ## Testing
 
